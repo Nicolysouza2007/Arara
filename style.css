@@ -1,0 +1,37 @@
+body {
+    background-image: linear-gradient(#d8f5d1,#92b395, #9ddbca);
+}
+
+br {
+font-size: 20px;
+text-align: justify;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+#arara {
+    height: 200px;
+    width: 200px;
+    padding: 5px;
+    margin: 15px;
+    border: 10px outset rgb(88, 190, 40);
+}
+
+#arara2 {
+    height: 150px;
+    width: 200px;
+    padding: 5px;
+    margin: 15px;
+    border: 10px outset rgb(218, 197, 15);
+}
+
+#arara1 {
+    height: 180px;
+    width: 180px;
+    padding: 5px;
+    margin: 15px;
+    border: 10px outset rgb(43, 24, 214);
+}
